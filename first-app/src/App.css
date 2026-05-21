@@ -1,0 +1,16 @@
+
+body{
+  background: red;
+  display: flex;
+  gap:20px;
+  justify-content: center;
+  align-items: center
+}
+
+img{
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  border: 1px solid black;
+  
+}
